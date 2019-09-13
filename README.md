@@ -1,11 +1,5 @@
-# prototype
+# My Poster
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Hello
-```
+This poster is design through Adobe Illustrator.
 
 ![GitHub Logo](/README%20Image/CCA1.jpg)
